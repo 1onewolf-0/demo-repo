@@ -1,3 +1,3 @@
 #Demo
 
-Demo to learn how GitHub works
+Demo to learn how GitHub works!
